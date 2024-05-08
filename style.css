@@ -1,0 +1,42 @@
+h2 {
+    font-family:Redressed;
+    font-size:50px;
+    color: ;
+}
+body {
+  background-color:#55FAEB;
+}
+h1 {
+  font-family:Oswald;
+}
+h1 {
+  font-family: Pangolin
+}
+Button{
+   font-family:Oswald;
+   background-color:black;
+   color:white;
+   border-radius:50%;
+   border: solid;
+}
+p {
+  font-family:Roboto Slab;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #36f7b0;
+}
+tr:nth-child(odd) {
+    background-color: #ffffff;
+}
